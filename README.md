@@ -12,3 +12,7 @@ Now making an edit in Rstudio. Keeping this too: Add some new changes on Github 
 
 Making a change in the branch version right now.
 
+# Data
+
+The data for this project is available from authors. 
+
